@@ -134,7 +134,7 @@ konfigurasi ini tidak tersedia saat min dan max ditetapkan.
 48.	xAxis : splitLine (object) : lineStyle (object) : width (number) : lebar splitLine.
 49.	xAxis : splitLine (object) : lineStyle (object) : type (string) : type garis yang digunakan (solid,dashed,dotted).
 
-####### **yAxis** ######
+###### **yAxis** ######
 1.	yAxis : type(string) : type dari axis(value,category,time,log).
 2.	yAxis : boundaryGap(boolean,array) : batas pada kedua sisi sumbu koordinat. Pengaturan sumbu kategori dan sumbu non-kategori berbeda.
 3.	yAxis : position (string) : posisi sumbu yAxis.
