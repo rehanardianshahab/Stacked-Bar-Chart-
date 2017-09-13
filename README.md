@@ -1,6 +1,4 @@
-### Stacked-Bar-Chart
-
-1.	Stacked Bar Chart
+### 1.  Stacked-Bar-Chart
 
 II.	Jenis Chart : Bar
 
