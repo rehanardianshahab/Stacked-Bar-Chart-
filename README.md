@@ -6,7 +6,7 @@ II.	Jenis Chart : Bar
 
 II.	Option: 
 
-###### **Title** ######
+#### **Title** ####
 1.	title : text (string) : untuk membuat judul pada echart.
 2.	title: subtext (string) : untuk membuat subtext pada baris baru.
 3.	title: sublink (string) : text yang support untuk hyperlink.
@@ -27,7 +27,7 @@ II.	Option:
 18.	title : textStyle : fontWeight (string) : lighter : membuat text menjadi tipis.
 19.	title : textStyle : fontFamily (string) : mengubah jenis font.
 
-###### **Legend** ######
+#### **Legend** ####
 1.	legend : left (string,number) : jarak objek dari sebelah kiri.
 2.	legend : right (string,number) : jarak objek dari sebelah kanan.
 3.	legend : top (string,number) : jarak objek dari sebelah atas.
@@ -57,7 +57,7 @@ II.	Option:
 27.	legend : shadowOffsetY (number) : jarak bayangan vertikal.
 28.	legend : data(object/array) : item array biasanya merupakan nama yang mewakili string.
 
-###### **Grid** ######
+#### **Grid** ####
 1.	grid : left(string/number) : jarak antara komponen grid dan sisi kiri.
 2.	grid : right(string/number) : jarak antara komponen grid dan sisi kanan.
 3.	grid : bottom(string/number) : jarak antara komponen grid dan sisi bawah.
@@ -79,10 +79,10 @@ II.	Option:
 19.	grid : tooltip : textStyle : fontWeight (string) : lighter : membuat text menjadi tipis.
 20.	grid : tooltip : textStyle : fontFamily (string) : mengubah jenis font.
 
-###### **Toolbox** ######
+#### **Toolbox** ####
 1.	toolbox : feature(object) : saveImage(object) : untuk save gambar.
 
-###### **xAXis** ######
+#### **xAXis** ####
 1.	xAxis : type(string) : type dari axis(value,category,time,log).
 2.	xAxis : boundaryGap(boolean,array) : batas pada kedua sisi sumbu koordinat. Pengaturan sumbu kategori dan sumbu non-kategori berbeda.
 3.	xAxis : position (string) : posisi sumbu xAxis.
@@ -134,7 +134,7 @@ konfigurasi ini tidak tersedia saat min dan max ditetapkan.
 48.	xAxis : splitLine (object) : lineStyle (object) : width (number) : lebar splitLine.
 49.	xAxis : splitLine (object) : lineStyle (object) : type (string) : type garis yang digunakan (solid,dashed,dotted).
 
-###### **yAxis** ######
+#### **yAxis** ####
 1.	yAxis : type(string) : type dari axis(value,category,time,log).
 2.	yAxis : boundaryGap(boolean,array) : batas pada kedua sisi sumbu koordinat. Pengaturan sumbu kategori dan sumbu non-kategori berbeda.
 3.	yAxis : position (string) : posisi sumbu yAxis.
@@ -187,7 +187,8 @@ konfigurasi ini tidak tersedia saat min dan max ditetapkan.
 50.	yAxis : splitLine (object) : lineStyle (object) : width (number) : lebar splitLine.
 51.	yAxis : splitLine (object) : lineStyle (object) : type (string) : type garis yang digunakan (solid,dashed,dotted).
 52.	series (object) : name(string) : penamaan pada array. 
-###### **textStyle** ######
+
+#### **textStyle** ####
 1.	textStyle : color(string) : untuk mengubah warna pada text.
 2.	textStyle : fontSize(number) : untuk mengubah ukuran text (default=18).
 3.	textStyle : fontStyle(string) : italic : mengubah huruf menjadi miring.
